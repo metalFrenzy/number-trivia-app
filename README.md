@@ -17,9 +17,11 @@ I develop this application using clean Architecture and Test-driven development.
 - shared_preferences
 
 ## Screnshots
-![Screenshot_1699480522](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/feddbbbc-f026-43b3-8e57-04766252901d)
-![Screenshot_1699480747](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/b23b0e10-5910-46f8-9622-38bce153bdbc)
-![Screenshot_1699480709](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/e7c97ab4-c2c8-4d98-b02d-efbbb2bf76f3)
+![Screenshot_1713895692](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/ae200626-4562-4a67-94c8-76e5b213044c)
+![Screenshot_1713895662](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/b75e4f21-7f4f-4a4f-a8c6-a55c477d5d42)
+![Screenshot_1713895654](https://github.com/metalFrenzy/number-trivia-app/assets/70327788/55a8c990-e70c-4af8-952a-6fee3b22f9e4)
+
+
 
 
 
