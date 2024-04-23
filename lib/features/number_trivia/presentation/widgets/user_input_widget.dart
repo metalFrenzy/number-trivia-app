@@ -48,7 +48,7 @@ class _UserInputState extends State<UserInput> {
             controller: _inputStrController,
             decoration: InputDecoration(
               border: InputBorder.none,
-              hintText: 'Enter an Postive integer number',
+              hintText: 'Enter a Postive integer number',
               hintStyle: const TextStyle(
                 color: Color.fromARGB(255, 115, 114, 116),
                 fontSize: 15,
