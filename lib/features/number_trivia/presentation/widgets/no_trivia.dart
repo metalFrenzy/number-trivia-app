@@ -19,7 +19,7 @@ class NoTrivia extends StatelessWidget {
           height: 6,
         ),
         const Text(
-          'No Places yet, start adding great places!',
+          ' no Trivia Start adding a number or click the button!',
           style: TextStyle(
             color: Color.fromARGB(255, 43, 42, 43),
             fontSize: 18,
